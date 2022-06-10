@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinRehorek
-- 👀 I’m interested in Python, C#, Unity, Unreal Engine, Swift, JavaScript, React, ExpressJS, MongoDB.
-- 🌱 I’m currently learning MERN full stack.
+- 👀 I’m interested in Python, C#, Unity, Unreal Engine, Swift, JavaScript, React, ExpressJS, MongoDB, Bash, Kubernetes, Docker
+- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me: martinrehorek5@gmail.com
 
 <!---

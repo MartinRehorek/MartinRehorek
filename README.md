@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MartinRehorek
-- 👀 Working as a DevOps Software engineer for Deutsche Telekom - T-Mobile Czech A.S.
 - 📫 How to reach me: martinrehorek5@gmail.com
 
 <!---
